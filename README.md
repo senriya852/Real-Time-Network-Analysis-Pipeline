@@ -1,5 +1,5 @@
 # Real-Time Network Analysis Pipeline
-![image]([https://github.com/spg-iitd/Detecting-human-presence-using-USRP/assets/109638658/17756ec5-40e0-49ec-a38c-f77dff80e809](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/pipeline_architecture.png))
+![image][(https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/pipeline_architecture.png)]
 
 ## Steps
 
