@@ -5,7 +5,7 @@
 
 1. **Generate Packets**
    - Use Python code to generate network packets.
-
+![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/generated_packets.png)
 2. **Remove GTP Layer**
    - If the GTP layer is present in packets, use the TraceWrangler tool to remove it. Otherwise, skip this step.
 
@@ -20,7 +20,7 @@
 
 6. **Extract Required Features**
    - Use Python code to extract the necessary features from the encoded CSV file.
-
+![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/results.png)
 7. **Train the Encoded CSV File on Machine Learning Model**
    - Use the encoded CSV file to train a machine learning model.
 
