@@ -21,8 +21,9 @@
 
 6. **Extract Required Features**
    - Use Python code to extract the necessary features from the encoded CSV file.
-![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/results.png)
+
 7. **Train the Encoded CSV File on Machine Learning Model**
    - Use the encoded CSV file to train a machine learning model.
+   - ![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/results.png)
 
 
