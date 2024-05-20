@@ -1,5 +1,5 @@
 # Real-Time Network Analysis Pipeline
-![image][(https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/pipeline_architecture.png)]
+![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/pipeline_architecture.png)
 
 ## Steps
 
