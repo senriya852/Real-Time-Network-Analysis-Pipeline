@@ -6,8 +6,10 @@ Step 1: **Generate Packets**
    - Use Python code to generate network packets.
    - Run file packet.py
 ![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/generated_packets.png)
+
+
 Step 2: **Remove GTP Layer**
-   - If the GTP layer is present in packets, use the TraceWrangler tool to remove it. If not, you can just skip this step.
+   - If the GTP layer is present in packets, use the TraceWrangler tool to remove it. If not, you can skip this step.
 
 Step 3: **Convert packets in pcapng to pcap format**
    - Use the Tshark tool to convert the file from `pcapng` to `pcap`.
