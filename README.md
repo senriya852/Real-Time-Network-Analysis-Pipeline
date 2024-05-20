@@ -23,15 +23,4 @@
 7. **Train the Encoded CSV File on Machine Learning Model**
    - Use the encoded CSV file to train a machine learning model.
 
-## Image Details
 
-- **Image Format**: Portable Network Graphic (PNG)
-  - **Bits Per Pixel**: 32
-  - **Color**: Truecolour with alpha
-  - **Dimensions**: 
-    - 1093 x 833
-    - 1160 x 412
-    - 802 x 711
-  - **Interlaced**: Yes
-  - **XResolution**: 96
-  - **YResolution**: 96
