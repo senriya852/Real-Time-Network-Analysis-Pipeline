@@ -30,6 +30,7 @@ Step 4: **Convert pcap file to Network Flows then in CSV Format**
 Step 5: **Merge the CSV Files**
    - Use Python code to merge the generated CSV file.
    - Run: `csv_merge.py`
+     
 ![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/merged_csv.png)
 
 Step 6: **Encode the CSV file and  Features process**
