@@ -16,7 +16,7 @@ Step 3: **Convert packets in pcapng to pcap format**
    - command: tshark -F pcap -r captured_packets.pcapng -w captured_packets.pcap
 
 Step 4: **Convert pcap file to Network Flows then in CSV Format**
-   - Use the Argus tool to convert the file from `pcap` to network flows and then to CSV format.
+   - Use the Argus tool to convert the file from `pcap` to network flows and then to `CSV` format.
    - command: argus -r captured_packets.pcap -w captured_packets.argus
    - ra -r  captured_packets.argus -u -s  proto > proto.csv 
    - ra -r  captured_packets.argus -u -s  sttl > sttl.csv
