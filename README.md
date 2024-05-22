@@ -2,6 +2,15 @@
 ![image](https://github.com/senriya852/Real-Time-Network-Analysis-Pipeline/blob/main/image/pipeline_architecture.png)
 
 
+** Requirements **
+1. Install the Tshark tool in the system 
+2. Install Python libraries 
+   a. Scapy
+   b. Pandas
+   c. Scikit learn 
+   d. pickle
+
+
 Step 1: **Generate Packets**
    - Use Python code to generate network packets.
    - Run: `packet.py`
