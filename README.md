@@ -7,8 +7,11 @@
 2. Install Python libraries
    
    a. Scapy
+   
    b. Pandas
-   c. Scikit learn 
+   
+   c. Scikit learn
+   
    d. pickle
 
 
